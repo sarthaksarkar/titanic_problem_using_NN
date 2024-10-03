@@ -1,2 +1,2 @@
 # titanic_problem_using_NN
-This is the same titanic problem but solved using neural network
+This is a machine learning model(Neural Network) used to determine which all passengers will survivie using a set of features and labels
